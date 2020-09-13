@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/ucxwgqb0ypj73tt9?svg=true)](https://ci.appveyor.com/project/adeildo-oliveira/SimpleApiIntegrationTests)
+[![Build status](https://ci.appveyor.com/api/projects/status/ucxwgqb0ypj73tt9?svg=true)](https://ci.appveyor.com/project/adeildo-oliveira/simpleapiintegrationtests)
 
 >## Simple Integration Test
 Este projeto tem como objetivo, exemplificar o uso de testes integrados com base de dados SQL Server.

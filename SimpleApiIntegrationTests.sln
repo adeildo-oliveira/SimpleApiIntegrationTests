@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleApiIntegrationTests", "SimpleApiIntegrationTests\SimpleApiIntegrationTests.csproj", "{8855DF60-50F8-423B-9AEF-036B386E43C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{55054080-9799-4198-9BEC-DAE3C5A44949}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTestsSimpleApi", "IntegrationTestsSimpleApi\IntegrationTestsSimpleApi.csproj", "{5B40543A-2E42-4214-AE7A-A906703D04B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8855DF60-50F8-423B-9AEF-036B386E43C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8855DF60-50F8-423B-9AEF-036B386E43C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8855DF60-50F8-423B-9AEF-036B386E43C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8855DF60-50F8-423B-9AEF-036B386E43C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B40543A-2E42-4214-AE7A-A906703D04B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B40543A-2E42-4214-AE7A-A906703D04B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B40543A-2E42-4214-AE7A-A906703D04B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B40543A-2E42-4214-AE7A-A906703D04B2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{5B40543A-2E42-4214-AE7A-A906703D04B2} = {55054080-9799-4198-9BEC-DAE3C5A44949}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61AAA6D2-0643-4292-BB89-41510A00CC72}
+	EndGlobalSection
+EndGlobal
